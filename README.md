@@ -6,6 +6,14 @@
 
 > RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 
+# 写在前面
+- 原始项目地址：https://github.com/muaz-khan/RTCMultiConnection
+
+- 原作者好像暂不维护了
+
+### 迭代的内容
+- [x] 修复`connection.socketOptions`配置不生效问题
+
 ## Socket.io Signaling Server
 
 Signaling server has a separate repository:
